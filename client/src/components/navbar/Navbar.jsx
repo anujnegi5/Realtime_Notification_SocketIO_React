@@ -1,5 +1,5 @@
 import "./navbar.css";
-// import Notification from "../../img/notification.svg";
+import Notification from "../../img/notification.png";
 import Message from "../../img/message.svg";
 import Settings from "../../img/settings.svg";
 import { useEffect, useState } from "react";
